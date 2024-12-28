@@ -1,0 +1,3 @@
+# React Router v6 Nested Route Rendering Bug
+
+This repository demonstrates a bug encountered with nested routes in React Router v6.  The issue is inconsistent rendering of nested routes; sometimes they work, sometimes they don't, seemingly dependent on factors like the browser and operating system.  The solution provided addresses the problem by ensuring correct route definition and rendering behavior.
